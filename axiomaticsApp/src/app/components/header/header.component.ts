@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent implements OnInit {
-  headerText: string = "A fun and friendly programming challenge from Axiomatics";
+  title: string = "A fun and friendly programming challenge from Axiomatics";
 
   constructor() { }
 
