@@ -490,7 +490,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\George Sigur\Desktop\axiomatics\axiomaticsApp\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\George Sigur\Desktop\repo\Programming-Challenge\axiomaticsApp\src\main.ts */"./src/main.ts");
 
 
 /***/ })
